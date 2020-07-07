@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 ## 📌 Introduction
-**Veronica** is a machine learning based web app design for the prediction of famous **Iris Dataset** with the the help of python.
+**Veronica** is a machine learning based web app design for the prediction of famous **Iris Dataset**.
 
 ## ❤️ Contributors
 |**[Ankit Dobhal](https://github.com/ankitdobhal)**|
