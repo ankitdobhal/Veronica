@@ -23,6 +23,21 @@ if __name__ == '__main__':
 		# Simple Iris Flower Prediction App
 		This app predicts the **Iris flower** type!
 		""")
+	st.write("""
+                  # Iris Dataset
+                 """)
+	st.write("""
+                 Shape of dataset:  (150, 4)
+                """)
+	st.write("""
+                 Number of classes:  3
+                 """)
+	st.write("""
+                 Classifier:  KNN
+                 """)
+	st.write("""
+                 Accuracy: 0.95
+                 """)
 
 	st.sidebar.header('User Input Parameters')
 	st.subheader('User Input parameters')
